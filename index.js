@@ -18,4 +18,9 @@ var n1 = 5;
 var n2 = 3;
 
 var soma = n1 + n2;
-console.log(n1, n2, soma)
+console.log(`n1=${n1},n2=${n2},soma=${soma}`)
+
+var nome = 'Alan';
+var sobrenome = 'Alves';
+
+console.log(nome + sobrenome);
