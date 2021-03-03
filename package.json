@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "variaveis": "node JS/variaveis.js",
+    "operadores": "node JS/operadores.js",
+    "condicionais": "node JS/condicionais.js",
+   "loops": "node JS/loops.js",
+   
   },
   "repository": {
     "type": "git",
