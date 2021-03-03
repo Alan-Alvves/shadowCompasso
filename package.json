@@ -7,7 +7,7 @@
     "variaveis": "node JS/variaveis.js",
     "operadores": "node JS/operadores.js",
     "condicionais": "node JS/condicionais.js",
-   "loops": "node JS/loops.js",
+   "loops": "node JS/loops.js"
    
   },
   "repository": {
